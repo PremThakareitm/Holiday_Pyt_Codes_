@@ -1,3 +1,5 @@
+#This Code is Incomplete.
+
 max_line=3
 max_bet=1000
 min_bet=10
