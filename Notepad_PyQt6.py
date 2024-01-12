@@ -1,3 +1,4 @@
+#GPT
 import sys
 from PyQt6.QtWidgets import QApplication, QMainWindow, QTextEdit, QAction, QFileDialog
 
